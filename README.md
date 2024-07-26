@@ -10,4 +10,4 @@ The goal is for each player to reach eleven points before the opponent; points a
 Project objective: to achieve basic understanding of the PyGame library.
 Game objective. First to ten points win ( window closes automatically once player or opponent achieves 10 points)
 
-Project screenshots:
+Project screenshots: "Pong Screen Capture.JPG" in repository
